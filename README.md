@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iZaL
+- 👋 Hi, I’m Afzal Abbas
 - 👀 I’m interested in coding typescript, php
 - 🌱 I’m currently learning WEB3
 - 💞️ I’m looking to collaborate on open source projects
